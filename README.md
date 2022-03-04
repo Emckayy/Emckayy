@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Emckayy
+- 👀 I’m interested in making ML applications and native apps.
+- 🌱 I’m currently learning React Native.
+- 📫 How to reach me - @emckayy on instagram or utkarshmkumar@gmail.com
